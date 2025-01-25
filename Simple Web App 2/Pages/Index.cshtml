@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Repeat Text";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Repeat Text App</h1>
+    <form method="post">
+        <div>
+            <label for="textInput">Enter Text:</label>
+            <input type="text" id="textInput" name="Text" value="@Model.Text"/>
+        </div>
+        
+        <div>
+            <label for="numberInput">Enter Number:</label>
+            <input type="number" id="numberInput" name="Number" value="@Model.Number"/>
+        </div>
+        
+        <div>
+            <label>
+                <input type="checkbox" id="addSpaceCheckbox" name="AddSpace" @(Model.AddSpace ? "checked" : "")/>
+                Add Spaces
+            </label>
+        </div>
+        <button type="submit">Generate</button>
+    </form>
+    
+    @if (!string.IsNullOrEmpty())
+</div>
