@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+    <!-- by saying att page we specify "treat it like a page", the IndexModel is the C# class that handles the logic -->
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Number Validation</h1>
+    <form method="post">
+        <label for="inputNumber">Enter a Number:</label>
+        <input type="text" id="inputNumber" name="Number"/> <!-- name=Number is bound to Number property in IndexModel C# class -->
+        <button type="submit">Validate</button>
+    </form>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <div class = "alert alert-info mt-3"> <!-- Bootstrap Message -->
+    <strong>Validation Result:</strong> @Model.Message
+    </div>
+}
