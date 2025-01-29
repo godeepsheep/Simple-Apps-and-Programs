@@ -1,0 +1,35 @@
+﻿@model Web_App_4.Models.Tips
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Tips Program in different languages</h1>
+    
+    <form asp-action = "Index" method="post">
+        <div>
+            <label>Enter value:</label>
+            <input asp-for="Amount" type="number" required min="1" max="2000"/>
+        </div>
+
+        <div>
+            <label> Enter Custom Tip in Percent:</label>
+            <input asp-for="CustomAmount" type="number"/>
+            <button type="submit" name="submitButton" value="CustomAmount">CustomAmount</button>
+        </div>
+        
+        
+        <button type="submit" value="USA" name="submitButton" >20% USA</button>
+        <button type="submit" value="Germany" name="submitButton" >10% Germany</button>
+        <button type="submit" value="Japan" name="submitButton" >0% Japan</button>     
+        
+    </form>
+    
+</div>
+
+@if (Model.Description!=string.Empty)
+{
+    <h2>@Model.Description</h2>
+}
+                                                    
+                                                    

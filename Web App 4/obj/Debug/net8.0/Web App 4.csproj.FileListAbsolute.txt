@@ -1,0 +1,32 @@
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.AssemblyInfoInputs.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.AssemblyInfo.cs
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.csproj.CoreCompileInputs.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.RazorAssemblyInfo.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.RazorAssemblyInfo.cs
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.sourcelink.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\appsettings.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\global.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\Web App 4.staticwebassets.runtime.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\Web App 4.exe
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\Web App 4.deps.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\Web App 4.runtimeconfig.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\Web App 4.dll
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\bin\Debug\net8.0\Web App 4.pdb
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets\msbuild.Web App 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets\msbuild.build.Web App 4.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web App 4.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web App 4.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\scopedcss\bundle\Web App 4.styles.css
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\scopedcss\projectbundle\Web App 4.bundle.scp.css
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.dll
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\refint\Web App 4.dll
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.pdb
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\Web App 4.genruntimeconfig.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Web App 4\obj\Debug\net8.0\ref\Web App 4.dll
