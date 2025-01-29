@@ -18,13 +18,20 @@
         </div>
         
         <div>
+            <input type="hidden" name="AddSpace" value="false" />  <!-- If box is unchecked it still sends value -->
+            
             <label>
-                <input type="checkbox" id="addSpaceCheckbox" name="AddSpace" @(Model.AddSpace ? "checked" : "")/>
+                <!-- <input type="checkbox" id="addSpaceCheckbox" name="AddSpace"  att (Model.AddSpace ? "checked" : "")/> Old code if BindProperty worked dont forget the att -->
+
+                <input type="checkbox" id="addSpaceCheckbox" name="AddSpace" value="true" @(Model.AddSpace ? "checked" : "")/>
                 Add Spaces
             </label>
         </div>
         <button type="submit">Generate</button>
     </form>
     
-    @if (!string.IsNullOrEmpty())
+    @if (!string.IsNullOrEmpty(Model.Result))
+    {
+        <p><strong>Result:</strong> @Model.Result</p>
+    }
 </div>
