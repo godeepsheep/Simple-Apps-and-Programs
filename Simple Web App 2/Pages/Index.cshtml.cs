@@ -12,7 +12,7 @@ public class IndexModel : PageModel
   public int? Number { get; set; } //Set default value to 1 if you are short on time. It prevents issues that I had to deal with.
   
   [BindProperty]
-  public bool AddSpace { get; set; } //Bind didnt work for me. So I had to manually bind it in the csHTML
+  public bool AddSpace { get; set; } //if bind doesnt work add it manually in cshtml
 
   public string Result { get; set; } = string.Empty;
 
