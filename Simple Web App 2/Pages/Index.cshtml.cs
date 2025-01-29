@@ -30,6 +30,8 @@ public class IndexModel : PageModel
           Result = "Enter a positive number."; 
           return;
       }
+      // Manually retrieve AddSpace from Request.Form
+      bool addSpace = Request.Form.TryGetValue("AddSpace", out var spaceValue) && spaceValue == "true";
       
       // Debugging: Print AddSpace value
       Console.WriteLine($"Checkbox value: {AddSpace}");

@@ -11,25 +11,21 @@
             <label for="textInput">Enter Text:</label>
             <input type="text" id="textInput" name="Text" value="@Model.Text"/>
         </div>
-        
+
         <div>
             <label for="numberInput">Enter Number:</label>
             <input type="number" id="numberInput" name="Number" value="@Model.Number"/>
         </div>
-        
-        <div>
-            <input type="hidden" name="AddSpace" value="false" />  <!-- If box is unchecked it still sends value -->
-            
-            <label>
-                <!-- <input type="checkbox" id="addSpaceCheckbox" name="AddSpace"  att (Model.AddSpace ? "checked" : "")/> Old code if BindProperty worked dont forget the att -->
 
+        <div>
+            <label>
                 <input type="checkbox" id="addSpaceCheckbox" name="AddSpace" value="true" @(Model.AddSpace ? "checked" : "")/>
                 Add Spaces
             </label>
         </div>
         <button type="submit">Generate</button>
     </form>
-    
+
     @if (!string.IsNullOrEmpty(Model.Result))
     {
         <p><strong>Result:</strong> @Model.Result</p>
