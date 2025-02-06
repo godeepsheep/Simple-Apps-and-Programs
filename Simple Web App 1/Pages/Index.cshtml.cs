@@ -8,7 +8,7 @@ public class IndexModel : PageModel
     [BindProperty]
     public string? Number { get; set; }
     public string Message { get; set; } = string.Empty;
-
+    
     public void OnPost()
     {
         if (string.IsNullOrEmpty(Number))
@@ -78,4 +78,5 @@ public class IndexModel : PageModel
 
         return true;
     }
+    
 }

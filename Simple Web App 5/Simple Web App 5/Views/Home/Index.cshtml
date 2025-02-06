@@ -1,0 +1,20 @@
+﻿@model Simple_Web_App_5.Models.UserModel
+
+<h2>Login with Captcha</h2>
+
+<form method="post" asp-controller="Home" asp-action="Validate">
+    <label>Username:</label>
+    <input type="text" name="Username" required />
+
+    <p>Solve this math problem:</p>
+    <h3>@ViewBag.MathQuestion</h3>
+
+    <input type="number" name="Answer" required />
+
+    <button type="submit">Submit</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color: red;">@ViewBag.Error</p>
+}

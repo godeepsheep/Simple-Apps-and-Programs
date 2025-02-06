@@ -1,0 +1,31 @@
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\appsettings.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\Simple Web App 5.staticwebassets.runtime.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\Simple Web App 5.exe
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\Simple Web App 5.deps.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\Simple Web App 5.runtimeconfig.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\Simple Web App 5.dll
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\bin\Debug\net8.0\Simple Web App 5.pdb
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.AssemblyInfoInputs.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.AssemblyInfo.cs
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.csproj.CoreCompileInputs.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.RazorAssemblyInfo.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.RazorAssemblyInfo.cs
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.sourcelink.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets\msbuild.Simple Web App 5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets\msbuild.build.Simple Web App 5.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Simple Web App 5.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Simple Web App 5.props
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\scopedcss\bundle\Simple Web App 5.styles.css
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\scopedcss\projectbundle\Simple Web App 5.bundle.scp.css
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.dll
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\refint\Simple Web App 5.dll
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.pdb
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\Simple Web App 5.genruntimeconfig.cache
+C:\Users\GoDee\Desktop\Homework\Simple-Apps-and-Programs\Simple Web App 5\Simple Web App 5\obj\Debug\net8.0\ref\Simple Web App 5.dll
