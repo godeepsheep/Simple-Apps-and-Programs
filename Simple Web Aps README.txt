@@ -21,3 +21,11 @@ The user must enter a valid username and solve a random math problem (a + b * c)
 If both are correct, they see a success page. Otherwise, they get an error message, and a new math problem is generated.
 
 Web App 6) Password Strength Checker MVC
+Create a simple ASP.NET Core MVC application where the user enters a password into an input field. Upon submission, 
+the app should evaluate the password strength based on the following criteria and display which are met and which are not:
+
+At least 8 characters long
+Contains both uppercase and lowercase letters
+Contains at least one number
+Contains at least one special character (!@#$%^&* etc.)
+The validation results should be displayed dynamically when the button is clicked.
