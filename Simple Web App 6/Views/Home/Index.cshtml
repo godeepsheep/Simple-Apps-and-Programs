@@ -1,0 +1,23 @@
+﻿@model Simple_Web_App_6.Models.CheckerModel
+
+<div class="text-center">
+    <h1 class="display-4">Password Strength Checker</h1>
+</div>
+
+<form method="post" asp-controller="Home" asp-action="Validate">
+    <label>Password:</label>
+    <input type="text" name="Password" required/>
+    
+    <button type="submit">Submit</button>
+</form>
+
+<!-- Lists all the errors -->
+@if (ViewBag.Error != null && ViewBag.Error.Count > 0)
+{
+    <ul style="color: red;">
+        @foreach (var error in ViewBag.Errors)
+        {
+            <li>@error</li>
+        }
+    </ul>
+}
