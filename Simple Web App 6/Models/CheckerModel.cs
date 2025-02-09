@@ -2,6 +2,6 @@
 
 public class CheckerModel
 {
-    public string Password;
+    public string Password { get; set; } 
     
 }
