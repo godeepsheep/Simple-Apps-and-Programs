@@ -1,0 +1,27 @@
+﻿@model Simple_Web_App_1_MVC.Models.ValidationModel
+
+<div class="text-center">
+    <h1 class="display-4">Number Validation App</h1>
+</div>
+
+<form method="post" asp-controller="Home" asp-action="Validate">
+    <label>Input numbers here:</label>
+    <input type="text" asp-for="InputText" required/>
+    
+    <button type="submit">Validate</button>
+</form>
+<!-- Shows all errors it could find -->
+@if (ViewBag.Errors != null && ViewBag.Errors.Count > 0)
+{
+    <ul style="color: red;">
+        @foreach (var error in ViewBag.Errors)
+        {
+            <li>@error</li>
+        }
+    </ul>
+}
+<!-- Shows success message -->
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <p style="color: green;">@ViewBag.SuccessMessage</p>
+}
