@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MultiThreaded Server",
+    "\\MultiThreaded Server\\bin",
+    "\\MultiThreaded Server\\bin\\Release",
+    "\\MultiThreaded Server\\Client",
+    "\\MultiThreaded Server\\Common",
+    "\\MultiThreaded Server\\obj",
+    "\\MultiThreaded Server\\obj\\Debug",
+    "\\MultiThreaded Server\\obj\\Release",
+    "\\MultiThreaded Server\\Properties",
+    "\\MultiThreaded Server\\Server"
+  ],
+  "SelectedNode": "\\MultiThreaded Server\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

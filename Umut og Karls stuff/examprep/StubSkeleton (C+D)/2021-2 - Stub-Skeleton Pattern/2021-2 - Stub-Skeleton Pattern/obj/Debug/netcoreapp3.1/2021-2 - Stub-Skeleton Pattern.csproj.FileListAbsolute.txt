@@ -1,0 +1,26 @@
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.exe
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.deps.json
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.runtimeconfig.json
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.runtimeconfig.dev.json
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.dll
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.pdb
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.csprojAssemblyReference.cache
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.AssemblyInfoInputs.cache
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.AssemblyInfo.cs
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.csproj.CoreCompileInputs.cache
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\ssp.dll
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\ssp.pdb
+X:\projects\C#\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.genruntimeconfig.cache
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.exe
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.deps.json
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.runtimeconfig.json
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.runtimeconfig.dev.json
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.dll
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\bin\Debug\netcoreapp3.1\ssp.pdb
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.AssemblyInfoInputs.cache
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.AssemblyInfo.cs
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.csproj.CoreCompileInputs.cache
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\ssp.dll
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\ssp.pdb
+F:\exam-main\StubSkeleton (C+D)\2021-2 - Stub-Skeleton Pattern\2021-2 - Stub-Skeleton Pattern\obj\Debug\netcoreapp3.1\2021-2 - Stub-Skeleton Pattern.genruntimeconfig.cache

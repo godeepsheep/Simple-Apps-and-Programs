@@ -1,0 +1,29 @@
+﻿@model guesser2.Models.Guesser
+
+
+<form method="post">
+    <div>
+        <label>antal gæt (max 5)</label>
+        <p>@Model.Guesses</p>
+        <input asp-for="Guesses" type="hidden" value="@Model.Guesses" />
+        <input  asp-for="SecretNumber" type="hidden" value="@Model.SecretNumber" />
+    </div>
+    <div>
+
+        @if (Model?.IsOver == false)
+        {
+            <p>Svaret er over!</p>
+        }
+
+        else if (Model?.IsOver == true)
+        {
+            <p>Svaret er under!</p>
+        }
+
+        
+
+        <label>gæt på et random number</label>
+        <input asp-for="Guess" type="number" min="1" max="10" required />
+        <button type="submit">tryk på mig </button>
+    </div>
+</form>

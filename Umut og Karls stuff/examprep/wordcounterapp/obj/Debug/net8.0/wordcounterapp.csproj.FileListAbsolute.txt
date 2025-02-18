@@ -1,0 +1,14 @@
+C:\Users\kehan\source\repos\wordcounterapp\bin\Debug\net8.0\wordcounterapp.exe
+C:\Users\kehan\source\repos\wordcounterapp\bin\Debug\net8.0\wordcounterapp.deps.json
+C:\Users\kehan\source\repos\wordcounterapp\bin\Debug\net8.0\wordcounterapp.runtimeconfig.json
+C:\Users\kehan\source\repos\wordcounterapp\bin\Debug\net8.0\wordcounterapp.dll
+C:\Users\kehan\source\repos\wordcounterapp\bin\Debug\net8.0\wordcounterapp.pdb
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.AssemblyInfo.cs
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.dll
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\refint\wordcounterapp.dll
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.pdb
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\wordcounterapp.genruntimeconfig.cache
+C:\Users\kehan\source\repos\wordcounterapp\obj\Debug\net8.0\ref\wordcounterapp.dll

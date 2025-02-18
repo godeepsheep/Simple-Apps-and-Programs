@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\examprep\\LoginRegnestykkeASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|f:\\examprep\\loginregnestykkeaspnet\\loginregnestykkeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|solutionrelative:loginregnestykkeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|f:\\examprep\\loginregnestykkeaspnet\\loginregnestykkeaspnet\\views\\home\\succes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|solutionrelative:loginregnestykkeaspnet\\views\\home\\succes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|f:\\examprep\\loginregnestykkeaspnet\\loginregnestykkeaspnet\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|solutionrelative:loginregnestykkeaspnet\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|f:\\examprep\\loginregnestykkeaspnet\\loginregnestykkeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B4A478-395B-4168-B82D-0CE0D22B7A30}|LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET.csproj|solutionrelative:loginregnestykkeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "succes.cshtml",
+              "DocumentMoniker": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Views\\Home\\succes.cshtml",
+              "RelativeDocumentMoniker": "LoginRegnestykkeASPNET\\Views\\Home\\succes.cshtml",
+              "ToolTip": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Views\\Home\\succes.cshtml",
+              "RelativeToolTip": "LoginRegnestykkeASPNET\\Views\\Home\\succes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T19:07:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginRegnestykkeASPNET\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginRegnestykkeASPNET\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:06:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "LoginRegnestykkeASPNET\\Models\\LoginModel.cs",
+              "ToolTip": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Models\\LoginModel.cs",
+              "RelativeToolTip": "LoginRegnestykkeASPNET\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:06:11.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginRegnestykkeASPNET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\examprep\\LoginRegnestykkeASPNET\\LoginRegnestykkeASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginRegnestykkeASPNET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T19:04:16.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

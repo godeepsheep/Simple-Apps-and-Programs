@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\exam-main\\BookXMLExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|f:\\exam-main\\bookxmlexample\\bookxmlexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|solutionrelative:bookxmlexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|f:\\exam-main\\bookxmlexample\\bookxmlexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|solutionrelative:bookxmlexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|f:\\exam-main\\bookxmlexample\\bookxmlexample\\data\\books2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|solutionrelative:bookxmlexample\\data\\books2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|f:\\exam-main\\bookxmlexample\\bookxmlexample\\data\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD83BFF1-6CD9-4314-B8FB-CC3E82627608}|BookXMLExample\\BookXMLExample.csproj|solutionrelative:bookxmlexample\\data\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "books2.xml",
+              "DocumentMoniker": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\data\\books2.xml",
+              "RelativeDocumentMoniker": "BookXMLExample\\data\\books2.xml",
+              "ToolTip": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\data\\books2.xml",
+              "RelativeToolTip": "BookXMLExample\\data\\books2.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-23T11:43:26.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "books.xml",
+              "DocumentMoniker": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\data\\books.xml",
+              "RelativeDocumentMoniker": "BookXMLExample\\data\\books.xml",
+              "ToolTip": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\data\\books.xml",
+              "RelativeToolTip": "BookXMLExample\\data\\books.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-23T11:43:26.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\Program.cs",
+              "RelativeDocumentMoniker": "BookXMLExample\\Program.cs",
+              "ToolTip": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\Program.cs",
+              "RelativeToolTip": "BookXMLExample\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwDUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:43:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\Book.cs",
+              "RelativeDocumentMoniker": "BookXMLExample\\Book.cs",
+              "ToolTip": "F:\\exam-main\\BookXMLExample\\BookXMLExample\\Book.cs",
+              "RelativeToolTip": "BookXMLExample\\Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:43:26.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

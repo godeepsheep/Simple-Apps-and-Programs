@@ -1,0 +1,14 @@
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\bin\Debug\net9.0\PrøveEksamenOpgaveNetværk.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\bin\Debug\net9.0\PrøveEksamenOpgaveNetværk.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\bin\Debug\net9.0\PrøveEksamenOpgaveNetværk.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\bin\Debug\net9.0\PrøveEksamenOpgaveNetværk.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\bin\Debug\net9.0\PrøveEksamenOpgaveNetværk.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\refint\PrøveEksamenOpgaveNetværk.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\PrøveEksamenOpgaveNetværk.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\Grundlæggende csharp opgaver\PrøveEksamenOpgaveNetværk\obj\Debug\net9.0\ref\PrøveEksamenOpgaveNetværk.dll

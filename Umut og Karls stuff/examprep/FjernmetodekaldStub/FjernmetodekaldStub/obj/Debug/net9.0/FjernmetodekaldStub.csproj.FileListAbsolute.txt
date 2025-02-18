@@ -1,0 +1,14 @@
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\bin\Debug\net9.0\FjernmetodekaldStub.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\bin\Debug\net9.0\FjernmetodekaldStub.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\bin\Debug\net9.0\FjernmetodekaldStub.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\bin\Debug\net9.0\FjernmetodekaldStub.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\bin\Debug\net9.0\FjernmetodekaldStub.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\refint\FjernmetodekaldStub.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\FjernmetodekaldStub.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\FjernmetodekaldStub\FjernmetodekaldStub\obj\Debug\net9.0\ref\FjernmetodekaldStub.dll

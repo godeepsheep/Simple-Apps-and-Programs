@@ -1,0 +1,14 @@
+﻿@model ValiViewModel
+
+<div class="text-center">
+    <form asp-action="Vali" method="post">
+        <label for="Tal">Skriv tal!</label>
+        <input type="text" asp-for="Tal" required></input> 
+        <button type="submit">Validere</button>
+    </form>
+</div>
+
+@if (!String.IsNullOrWhiteSpace(Model.Message))
+{
+    <h2>@Model.Message</h2> <!-- Vis besked -->
+}

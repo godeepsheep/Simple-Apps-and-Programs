@@ -1,0 +1,15 @@
+﻿@model TipsModel
+
+<form method="post" asp-action="Beregning">
+    <label>Indtast et beløb</label>
+    <input type="number" id="Beløb" name="Beløb" required/>
+
+    <button type="submit" value="USA" name="Land">USA</button>
+    <button type="submit" value="Tyskland" name="Land">Tyskland</button>
+    <button type="submit" value="Japan" name="Land">Japan</button>
+</form>
+
+@if (Model.TotalBeløb > 0)
+{
+    <h2>Samlede betaling for @Model.Land: @Model.TotalBeløb kr.</h2>
+}

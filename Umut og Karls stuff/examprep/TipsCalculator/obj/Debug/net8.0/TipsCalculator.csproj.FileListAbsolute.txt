@@ -1,0 +1,67 @@
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\appsettings.json
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.staticwebassets.runtime.json
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.staticwebassets.endpoints.json
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.exe
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.deps.json
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.runtimeconfig.json
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.dll
+C:\Users\kehan\source\repos\TipsCalculator\bin\Debug\net8.0\TipsCalculator.pdb
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.AssemblyInfo.cs
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.RazorAssemblyInfo.cache
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.RazorAssemblyInfo.cs
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\scopedcss\bundle\TipsCalculator.styles.css
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\scopedcss\projectbundle\TipsCalculator.bundle.scp.css
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.TipsCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.TipsCalculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.build.TipsCalculator.props
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TipsCalculator.props
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TipsCalculator.props
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.dll
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\refint\TipsCalculator.dll
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.pdb
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\TipsCalculator.genruntimeconfig.cache
+C:\Users\kehan\source\repos\TipsCalculator\obj\Debug\net8.0\ref\TipsCalculator.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\appsettings.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.staticwebassets.runtime.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.staticwebassets.endpoints.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.exe
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.deps.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.runtimeconfig.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\bin\Debug\net8.0\TipsCalculator.pdb
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.AssemblyInfoInputs.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.AssemblyInfo.cs
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.RazorAssemblyInfo.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.RazorAssemblyInfo.cs
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\scopedcss\bundle\TipsCalculator.styles.css
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\scopedcss\projectbundle\TipsCalculator.bundle.scp.css
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.TipsCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.TipsCalculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.build.TipsCalculator.props
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TipsCalculator.props
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TipsCalculator.props
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\refint\TipsCalculator.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.pdb
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\TipsCalculator.genruntimeconfig.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\TipsCalculator\obj\Debug\net8.0\ref\TipsCalculator.dll

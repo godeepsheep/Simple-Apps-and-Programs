@@ -1,0 +1,38 @@
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.exe
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.pdb
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.baml
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.g.cs
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\App.g.cs
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor_MarkupCompile.cache
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.g.resources
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public_Key_Encryptor.Properties.Resources.resources
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.exe
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.pdb
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\bin\Debug\Public Key Encryptor.exe
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\bin\Debug\Public Key Encryptor.pdb
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csprojResolveAssemblyReference.cache
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\MainWindow.baml
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\MainWindow.g.cs
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\App.g.cs
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor_MarkupCompile.cache
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.g.resources
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public_Key_Encryptor.Properties.Resources.resources
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csproj.GenerateResource.Cache
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.exe
+x:\projects\C#\Public Key Encryptor (skabelon)\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.pdb
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.exe
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.pdb
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csproj.AssemblyReference.cache
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.baml
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.g.cs
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\App.g.cs
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor_MarkupCompile.cache
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.g.resources
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public_Key_Encryptor.Properties.Resources.resources
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csproj.GenerateResource.cache
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csproj.CoreCompileInputs.cache
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.exe
+X:\projects\C#\2023-2 - Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.pdb

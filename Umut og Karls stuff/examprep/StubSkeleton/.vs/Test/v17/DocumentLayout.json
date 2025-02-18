@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\exam-main\\StubSkeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|f:\\exam-main\\stubskeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|f:\\exam-main\\stubskeleton\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|solutionrelative:handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|f:\\exam-main\\stubskeleton\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|f:\\exam-main\\stubskeleton\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|f:\\exam-main\\stubskeleton\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|solutionrelative:xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|f:\\exam-main\\stubskeleton\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D193951-5D11-4963-BA3C-36B4774C98BD}|Test.csproj|solutionrelative:test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "F:\\exam-main\\StubSkeleton\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "F:\\exam-main\\StubSkeleton\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\exam-main\\StubSkeleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\exam-main\\StubSkeleton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XML.cs",
+              "DocumentMoniker": "F:\\exam-main\\StubSkeleton\\XML.cs",
+              "RelativeDocumentMoniker": "XML.cs",
+              "ToolTip": "F:\\exam-main\\StubSkeleton\\XML.cs",
+              "RelativeToolTip": "XML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "F:\\exam-main\\StubSkeleton\\Handler.cs",
+              "RelativeDocumentMoniker": "Handler.cs",
+              "ToolTip": "F:\\exam-main\\StubSkeleton\\Handler.cs",
+              "RelativeToolTip": "Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "F:\\exam-main\\StubSkeleton\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "F:\\exam-main\\StubSkeleton\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test",
+              "DocumentMoniker": "F:\\exam-main\\StubSkeleton\\Test.csproj",
+              "RelativeDocumentMoniker": "Test.csproj",
+              "ToolTip": "F:\\exam-main\\StubSkeleton\\Test.csproj",
+              "RelativeToolTip": "Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T11:51:10.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

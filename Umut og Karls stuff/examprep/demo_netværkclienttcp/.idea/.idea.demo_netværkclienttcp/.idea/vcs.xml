@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../csharp/Palleoptimering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../csharp/Pro. Eksamen/MVC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../csharp/Studentregsapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../csharp/Studentregsapp/Studentregsapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../csharp/oddEven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../csharp/srnissen" vcs="Git" />
+  </component>
+</project>

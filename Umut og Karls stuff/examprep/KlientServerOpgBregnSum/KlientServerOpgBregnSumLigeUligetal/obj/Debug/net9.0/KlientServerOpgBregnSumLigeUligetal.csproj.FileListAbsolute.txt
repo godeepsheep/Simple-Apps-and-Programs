@@ -1,0 +1,28 @@
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\refint\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\ref\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.exe
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.deps.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.runtimeconfig.json
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\bin\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.pdb
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.AssemblyInfoInputs.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.AssemblyInfo.cs
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.csproj.CoreCompileInputs.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\refint\KlientServerOpgBregnSumLigeUligetal.dll
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.pdb
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\KlientServerOpgBregnSumLigeUligetal.genruntimeconfig.cache
+C:\Users\GoDee\Downloads\examprep (2)\examprep\KlientServerOpgBregnSumLigeUligetal\KlientServerOpgBregnSumLigeUligetal\obj\Debug\net9.0\ref\KlientServerOpgBregnSumLigeUligetal.dll

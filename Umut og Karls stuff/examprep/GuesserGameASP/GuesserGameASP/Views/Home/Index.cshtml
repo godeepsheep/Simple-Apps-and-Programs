@@ -1,0 +1,16 @@
+﻿@model GuessModel
+
+
+<form method="post" asp-action="Guess">
+    <label for="Guess">Indtast et tal mellem 1-10</label>
+    <input type="number" id="Guess" name="Guess" required/>
+    <button type="submit">Tryk på mig!</button>
+</form>
+
+
+<p>Gæt tilbage: @Model.GuessAmount</p>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}

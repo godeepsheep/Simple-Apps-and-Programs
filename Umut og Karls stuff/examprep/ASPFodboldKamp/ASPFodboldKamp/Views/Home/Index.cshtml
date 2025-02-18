@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Fodboldkamp Score Tæller";
+}
+
+<h2>Live Score</h2>
+<p><strong>Hold A:</strong> @ViewBag.TeamAScore</p>
+<p><strong>Hold B:</strong> @ViewBag.TeamBScore</p>
+
+<form method="post" asp-action="ScoreGoal">
+    <button type="submit" name="team" value="A">⚽ Hold A Scorer</button>
+    <button type="submit" name="team" value="B">⚽ Hold B Scorer</button>
+</form>
+
+<form method="post" asp-action="ResetMatch">
+    <button type="submit">🔄 Nulstil Kamp</button>
+</form>

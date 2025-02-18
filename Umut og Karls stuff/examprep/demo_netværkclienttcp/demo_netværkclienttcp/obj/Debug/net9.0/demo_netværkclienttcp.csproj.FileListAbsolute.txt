@@ -1,0 +1,28 @@
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\refint\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\ref\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\bin\Debug\net9.0\demo_netværkclienttcp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\refint\demo_netværkclienttcp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\demo_netværkclienttcp.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\demo_netværkclienttcp\demo_netværkclienttcp\obj\Debug\net9.0\ref\demo_netværkclienttcp.dll

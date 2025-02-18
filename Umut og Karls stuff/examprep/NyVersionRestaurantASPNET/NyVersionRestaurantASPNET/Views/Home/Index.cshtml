@@ -1,0 +1,27 @@
+﻿@model IEnumerable<NyVersionRestaurantASPNET.Models.Vare>
+
+<div class="text-center">
+    <h2> Vælg din ret, indtast din alder! </h2>
+
+    <form action="Bestil" method="post">
+        <label for="alder">Indtast din alder!</label>
+        <input type="number" id="alder" name="alder" required />
+
+        <label for="ret">Vælg en ret!</label>
+        <select id="ret" name="ret" class="form-control" required>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var vare in Model)
+                {
+                    <option value="@vare.Navn">@vare.Navn (@vare.Pris) kr</option>
+                }
+            }
+            else
+            {
+                <option value="">Ingen retter tilgængelige</option>
+            }
+        </select>
+
+        <button type="submit" class="btn btn-primary mt-3">Submit</button>
+    </form>
+</div>

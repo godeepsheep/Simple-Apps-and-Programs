@@ -1,0 +1,194 @@
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\appsettings.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.staticwebassets.runtime.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.staticwebassets.endpoints.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.RazorAssemblyInfo.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.RazorAssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\scopedcss\bundle\ASPFodboldKamp.styles.css
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\scopedcss\projectbundle\ASPFodboldKamp.bundle.scp.css
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\xk9cvnikmy-b9sayid5wm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\6xncgxa5us-61n19gt1b8.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7k4vs7618k-xtxxf3hu2r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\l6acepj3lu-t1cqhe9u97.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\be9r557jwx-c2jlpeoesf.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\zw8td9wz64-sejl45xvog.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\qew7qz60l5-aexeepp0ev.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\avwqnqtdbm-xvp3kq03qx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\jzvmqrfdv5-ausgxo2sd3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fwl4u82wps-22vffe00uq.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fmylmqikj0-cosvhxvwiu.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\ogm2y3kbpa-qesaa3a1fm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\czwgvczk8d-fvhpjtyr6v.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\jf6puc5kmj-tmc1g35s3z.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\2qf119v1n8-fsbi9cje9m.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\puf5z9lu1q-rxsg74s51o.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\1fvdb1c528-ee0r1s7dh0.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\eabdl5mu7r-q9ht133ko3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\jc500pl6s6-jd9uben2k1.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\3kisrpcu5d-gye83jo8yx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\kocklmsy46-r4e9w2rdcm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\0ot6ml39fz-wl58j5mj3v.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\nsb2aw7lv8-c2oey78nd0.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\p7scxq0691-d4r6k3f320.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\u3mhxo8tlo-j5mq2jizvt.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\p0yad44tlg-keugtjm085.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\ky7oary5qq-nvvlpmu67g.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\1eo0ahodl9-zub09dkrxp.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\je7lxeng6x-pj5nd1wqec.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\bxhac7mioa-43atpzeawx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\lh5xtyz7tw-v0zj4ognzu.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\ck4vg4bxzk-ynyaa8k90p.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\1ut8k04e30-hrwsygsryq.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\635vpzk81m-c63t5i9ira.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\mbf018w4ch-ft3s53vfgj.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\e548fum9lv-4094rpi4f9.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\evnnnhh5n9-6pdc2jztkx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\h64alcq5kr-hd3gran6i8.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fqe7ikf08l-iovd86k7lj.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7ujruuwzsc-ltid2c489k.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\04syajze21-kbrnm935zg.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\tlldj9melt-8vyfqsqgz1.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\qdhp17ie4t-y7v9cxd14o.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\exhp3u4359-u9q1upor1n.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\2g6qj6617e-h1s4sie4z3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\xm5qytkapg-4d85u1mtcx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\0i89iw648x-0j3bgjxly4.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\u9mp2otm98-03hjc8e09r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\xofx4b4wjd-48y08845bh.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\4xedfrit2j-356vix0kms.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fn0519olgf-83jwlth58m.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7epx2agko8-mrlpezrjn3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\10a0iu9jis-worgj0nhwm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\4hzfdtyom3-gk0pw8i4co.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\b8mo7o0f7b-x0q3zqp4vz.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\x9504tiutd-d6nrnj6jjx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7b96txdv4p-m9qm4tazc0.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\rhk9tx705a-ttgo8qnofa.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\lxv4e82bk6-jjsuc0puko.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\znxqt2eza8-9vr69e8ynj.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\c9fg2qsh13-87fc7y1x7t.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\n69j7o1wo3-mlv21k5csn.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\p7mpnd3ujn-k2y8lcks4r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\zul878twom-k2y8lcks4r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.ASPFodboldKamp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.ASPFodboldKamp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.build.ASPFodboldKamp.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ASPFodboldKamp.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ASPFodboldKamp.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\refint\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ref\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\appsettings.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.staticwebassets.endpoints.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.staticwebassets.runtime.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\bin\Debug\net9.0\ASPFodboldKamp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.RazorAssemblyInfo.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.RazorAssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\scopedcss\bundle\ASPFodboldKamp.styles.css
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\scopedcss\projectbundle\ASPFodboldKamp.bundle.scp.css
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\xk9cvnikmy-b9sayid5wm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\6xncgxa5us-61n19gt1b8.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7k4vs7618k-xtxxf3hu2r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\l6acepj3lu-t1cqhe9u97.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\be9r557jwx-c2jlpeoesf.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\zw8td9wz64-sejl45xvog.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\qew7qz60l5-aexeepp0ev.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\avwqnqtdbm-xvp3kq03qx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\jzvmqrfdv5-ausgxo2sd3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fwl4u82wps-22vffe00uq.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fmylmqikj0-cosvhxvwiu.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\ogm2y3kbpa-qesaa3a1fm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\czwgvczk8d-fvhpjtyr6v.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\jf6puc5kmj-tmc1g35s3z.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\2qf119v1n8-fsbi9cje9m.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\puf5z9lu1q-rxsg74s51o.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\1fvdb1c528-ee0r1s7dh0.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\eabdl5mu7r-q9ht133ko3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\jc500pl6s6-jd9uben2k1.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\3kisrpcu5d-gye83jo8yx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\kocklmsy46-r4e9w2rdcm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\0ot6ml39fz-wl58j5mj3v.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\nsb2aw7lv8-c2oey78nd0.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\p7scxq0691-d4r6k3f320.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\u3mhxo8tlo-j5mq2jizvt.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\p0yad44tlg-keugtjm085.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\ky7oary5qq-nvvlpmu67g.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\1eo0ahodl9-zub09dkrxp.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\je7lxeng6x-pj5nd1wqec.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\bxhac7mioa-43atpzeawx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\lh5xtyz7tw-v0zj4ognzu.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\ck4vg4bxzk-ynyaa8k90p.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\1ut8k04e30-hrwsygsryq.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\635vpzk81m-c63t5i9ira.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\mbf018w4ch-ft3s53vfgj.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\e548fum9lv-4094rpi4f9.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\evnnnhh5n9-6pdc2jztkx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\h64alcq5kr-hd3gran6i8.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fqe7ikf08l-iovd86k7lj.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7ujruuwzsc-ltid2c489k.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\04syajze21-kbrnm935zg.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\tlldj9melt-8vyfqsqgz1.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\qdhp17ie4t-y7v9cxd14o.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\exhp3u4359-u9q1upor1n.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\2g6qj6617e-h1s4sie4z3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\xm5qytkapg-4d85u1mtcx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\0i89iw648x-0j3bgjxly4.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\u9mp2otm98-03hjc8e09r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\xofx4b4wjd-48y08845bh.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\4xedfrit2j-356vix0kms.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\fn0519olgf-83jwlth58m.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7epx2agko8-mrlpezrjn3.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\10a0iu9jis-worgj0nhwm.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\4hzfdtyom3-gk0pw8i4co.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\b8mo7o0f7b-x0q3zqp4vz.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\x9504tiutd-d6nrnj6jjx.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\7b96txdv4p-m9qm4tazc0.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\rhk9tx705a-ttgo8qnofa.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\lxv4e82bk6-jjsuc0puko.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\znxqt2eza8-9vr69e8ynj.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\c9fg2qsh13-87fc7y1x7t.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\n69j7o1wo3-mlv21k5csn.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\p7mpnd3ujn-k2y8lcks4r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\compressed\zul878twom-k2y8lcks4r.gz
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.ASPFodboldKamp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.ASPFodboldKamp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.build.ASPFodboldKamp.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ASPFodboldKamp.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ASPFodboldKamp.props
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\refint\ASPFodboldKamp.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ASPFodboldKamp.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\Eksamen prog opgaver\ASPFodboldKamp\ASPFodboldKamp\obj\Debug\net9.0\ref\ASPFodboldKamp.dll

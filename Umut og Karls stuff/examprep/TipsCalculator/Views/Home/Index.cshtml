@@ -1,0 +1,17 @@
+﻿@model TipsCalculator.Models.Tips
+
+<div>
+<form method="post">
+<label>Indstast beløb</label>
+<input asp-for="Amount" type="number"/>
+<div>
+<button type="submit" value="USA" name="Country" >USA</button>
+<button type="submit" value="Tyskland" name="Country">Tyskland</button>
+<button type="submit" value="Japan" name="Country">Japan</button>
+</div>
+</form>
+@if (Model.TipsDescription != string.Empty)
+{
+    <p>@Model.TipsDescription</p>
+}
+</div>

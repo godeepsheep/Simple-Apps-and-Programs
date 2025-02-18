@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Bekræftelse";
+}
+
+<div class="container">
+    <h2>Tak for din bestilling!</h2>
+
+    <p>Du valgte retten: @ViewData["Ret"]</p>
+    <p>Pris: @ViewData["Price"] kr</p>
+
+    <a href="@Url.Action("Index", "Bestilling")" class="btn btn-secondary mt-3">Gå tilbage og bestil igen</a>
+</div>

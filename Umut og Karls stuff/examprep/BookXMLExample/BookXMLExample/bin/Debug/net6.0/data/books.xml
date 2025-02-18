@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <!--Følgende er tre bøger fra reolen-->
+
+  <book language="english" pages="395">
+    <title>Design Patterns</title>
+    <subtitle>Elements of Reusable Object-Oriented Software</subtitle>
+    <author>Erich Gamma</author>
+    <author>Richard Helm</author>
+    <author>Ralph Johnson</author>
+    <author>John Vlissides</author>
+    <publisher>Addison-Wesley</publisher>
+    <year>1994</year>
+  </book>
+
+  <book language="english" pages="1019">
+    <title>The C++ Programming Language</title>
+    <subtitle>Special Edition</subtitle>
+    <author>Bjarne Stroustrup</author>
+    <publisher>Addison-Wesley</publisher>
+    <year>2000</year>
+  </book>
+
+  <book language="english" pages="521">
+    <title>Introduction to Automata Theory, Languages, and Computation</title>
+    <author>John E. Hopcroft</author>
+    <author>Rajeev Motwani</author>
+    <author>Jeffrey D. Ullman</author>
+    <publisher>Addison-Wesley</publisher>
+    <year>2001</year>
+  </book>
+</books>

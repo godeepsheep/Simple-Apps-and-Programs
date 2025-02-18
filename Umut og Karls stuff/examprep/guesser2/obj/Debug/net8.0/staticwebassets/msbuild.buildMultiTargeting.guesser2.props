@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\guesser2.props" />
+</Project>

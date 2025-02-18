@@ -1,0 +1,14 @@
+C:\Users\kehan\source\repos\returntosender\bin\Debug\net8.0\returntosender.exe
+C:\Users\kehan\source\repos\returntosender\bin\Debug\net8.0\returntosender.deps.json
+C:\Users\kehan\source\repos\returntosender\bin\Debug\net8.0\returntosender.runtimeconfig.json
+C:\Users\kehan\source\repos\returntosender\bin\Debug\net8.0\returntosender.dll
+C:\Users\kehan\source\repos\returntosender\bin\Debug\net8.0\returntosender.pdb
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.AssemblyInfo.cs
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.dll
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\refint\returntosender.dll
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.pdb
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\returntosender.genruntimeconfig.cache
+C:\Users\kehan\source\repos\returntosender\obj\Debug\net8.0\ref\returntosender.dll

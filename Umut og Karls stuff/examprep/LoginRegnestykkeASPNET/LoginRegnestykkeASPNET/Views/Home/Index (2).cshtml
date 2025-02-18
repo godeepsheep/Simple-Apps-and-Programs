@@ -1,0 +1,21 @@
+﻿@model LoginModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form asp-action="Login" method="post">
+    <div class="text-center">
+        <label>Skriv dit login</label>
+        <input type="text" name="Username" required/>
+        <label>Skriv din adgangskode</label>
+        <input type="password" name="Password" required/>
+        <label>@Model.num1 +</label>
+        <label>(@Model.num2 *</label>
+        <label>@Model.num3)</label>
+        <input type="number" name="Answer" required/>
+        <input type="hidden" name="CorrectAnswer" value="@Model.CorrectAnswer" />
+
+
+        <button type="submit">Send</button>
+        
+    </div>
+</form>
