@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GoDee\\Desktop\\Homework\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj": {}
+    "C:\\Users\\GoDee\\OneDrive\\Desktop\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GoDee\\Desktop\\Homework\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj": {
+    "C:\\Users\\GoDee\\OneDrive\\Desktop\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GoDee\\Desktop\\Homework\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj",
+        "projectUniqueName": "C:\\Users\\GoDee\\OneDrive\\Desktop\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj",
         "projectName": "Simple Web App 1",
-        "projectPath": "C:\\Users\\GoDee\\Desktop\\Homework\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj",
+        "projectPath": "C:\\Users\\GoDee\\OneDrive\\Desktop\\Simple-Apps-and-Programs\\Simple Web App 1\\Simple Web App 1.csproj",
         "packagesPath": "C:\\Users\\GoDee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GoDee\\Desktop\\Homework\\Simple-Apps-and-Programs\\Simple Web App 1\\obj\\",
+        "outputPath": "C:\\Users\\GoDee\\OneDrive\\Desktop\\Simple-Apps-and-Programs\\Simple Web App 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

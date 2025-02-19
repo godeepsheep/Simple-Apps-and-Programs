@@ -11,12 +11,12 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    
     [HttpPost]
     public IActionResult Validate(ValidationModel digits)
     {
-        var errors = new List<string>();
         
+        var errors = new List<string>();
         
         if (digits == null || string.IsNullOrWhiteSpace(digits.InputText))
         {
